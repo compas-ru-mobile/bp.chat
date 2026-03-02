@@ -1,0 +1,9 @@
+env
+!/build/
+/build/*
+.idea
+*.tmp
+Ui*.py
+.vscode
+__pycache__
+!/build/requirements.txt
